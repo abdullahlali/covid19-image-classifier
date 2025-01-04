@@ -72,7 +72,7 @@ The model achieves the following performance on the test set:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdullahlali/covid19-image-classifier.git
+   git clone https://github.com/your-username/covid19-image-classifier.git
    ```
 2. Install dependencies:
    ```bash
