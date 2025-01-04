@@ -51,7 +51,8 @@ def main():
 
     for image_path in images:
         predicted_label = predict(image_path, model, class_labels)
-        print(f'Predicted class: {predicted_label} for {image_path}')
+        print(f'\nInput Image: {image_path}')
+        print(f'Predicted class: {predicted_label}')
 
 
 if __name__ == '__main__':
